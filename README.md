@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Marcus. I can be found as "rasfmar" on most platforms. I like building things.
 
-[!Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasfmar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasfmar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rasfmar/rasfmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
