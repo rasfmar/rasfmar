@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Marcus. I can be found as "rasfmar" on most platforms. I like building things.
+I'm Marcus. I can be found as "rasfmar" on most platforms. I want to build things that help people.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasfmar&show_icons=true&count_private=true)
 
